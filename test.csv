@@ -6,7 +6,7 @@ ID;pclass;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;home.des
 5;1;Lindstrom, Mrs. Carl Johan (Sigrid Posse);female;55;0;0;112377;27,7208;;C;6;;Stockholm, Sweden
 6;1;Futrelle, Mrs. Jacques Heath (Lily May Peel);female;35;1;0;113803;53,1;C123;S;D;;Scituate, MA
 7;1;Candee, Mrs. Edward (Helen Churchill Hungerford);female;53;0;0;PC 17606;27,4458;;C;6;;Washington, DC
-8;1;"Flynn, Mr. John Irwin (""Irving"")";male;36;0;0;PC 17474;26,3875;E25;S;5;;Brooklyn, NY
+8;1;"Flynn, Mr. John Irwin";male;36;0;0;PC 17474;26,3875;E25;S;5;;Brooklyn, NY
 9;3;Boulos, Master. Akar;male;6;1;1;2678;15,2458;;C;;;Syria Kent, ON
 10;3;Daher, Mr. Shedid;male;22,5;0;0;2698;7,225;;C;;9;
 11;2;Harper, Rev. John;male;28;0;1;248727;33;;S;;;Denmark Hill, Surrey / Chicago
