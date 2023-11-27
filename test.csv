@@ -32,7 +32,6 @@ ID;pclass;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;home.des
 31;2;Mellors, Mr. William John;male;19;0;0;SW/PP 751;10,5;;S;B;;Chelsea, London
 32;2;Troupiansky, Mr. Moses Aaron;male;23;0;0;233639;13;;S;;;
 33;2;Portaluppi, Mr. Emilio Ilario Giuseppe;male;30;0;0;C.A. 34644;12,7375;;C;14;;Milford, NH
-34;1;Allison, Mr. Hudson Joshua Creighton;male;30;1;2;113781;151,55;C22 C26;S;135;Montreal, PQ / Chesterville, ON
 35;3;Daly, Mr. Eugene Patrick;male;29;0;0;382651;7,75;;Q;13 15 B;;Co Athlone, Ireland New York, NY
 36;2;Campbell, Mr. William;male;;0;0;239853;0;;S;;;Belfast
 37;3;Olsen, Master. Artur Karl;male;9;0;1;C 17368;3,1708;;S;13;;
