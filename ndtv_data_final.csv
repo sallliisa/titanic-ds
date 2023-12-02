@@ -1,4 +1,4 @@
-id,name,brand,model,battery_capacity,screen_size,is_touchscreen,res_x,res_y,processor,ram,storage,rear_cam,front_cam,os,wifi,bluetooth,gps,sims,has_3g,has_4g,price
+id,name,brand,model,battery_capacity,screen_size,is_touchscreen,res_x,res_y,processor,ram,storage,rear_cam,front_cam,os,wifi,bluetooth,gps,sim_slots,has_3g,has_4g,price
 0,OnePlus 7T Pro McLaren Edition,OnePlus,7T Pro McLaren Edition,4085,6.67,Yes,1440,3120,8,12000,256.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,58998
 1,Realme X2 Pro,Realme,X2 Pro,4000,6.5,Yes,1080,2400,8,6000,64.0,64.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,27999
 2,iPhone 11 Pro Max,Apple,iPhone 11 Pro Max,3969,6.5,Yes,1242,2688,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,106900
